@@ -1,15 +1,44 @@
-I’m a Computer Science undergraduate focused on building structured, production-ready systems. I’m currently working on SentraAI — an AI-powered platform where I’m designing the backend architecture from scratch, including server structure, routing, authentication, database design, and usage tracking.<br><br>I’m particularly interested in backend engineering, scalable APIs, and system design. I like breaking large problems into small, buildable components and understanding how everything fits together at a low level instead of relying on abstractions blindly.<br><br>My current focus areas include:<br><br>Designing clean backend architectures using Node.js and Express<br><br>Database modeling and ORM usage<br><br>Authentication and authorization systems<br><br>Building and structuring real-world projects<br><br>Strengthening Data Structures and Algorithms<br><br>I’m always open to collaborating on backend-heavy or product-oriented projects where performance, clarity, and scalability matter.
+## About Me
 
+I’m a Computer Science undergraduate focused on building structured, production-ready systems. I’m currently developing **SentraAI**, an AI-powered platform where I’m designing the backend architecture from the ground up — including server structure, routing layers, authentication, database modeling, and usage tracking.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-shiv-shankar-atal-a271172a5/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harsh.atal05@gmail.com) 
+I’m particularly interested in backend engineering, scalable APIs, and system design. I prefer understanding systems at a fundamental level rather than relying blindly on abstractions, and I enjoy breaking complex problems into structured, buildable components.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=plastic&logo=fastify&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshatal15&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harshatal15&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshatal15&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Current Focus
+- Designing backend architectures using Node.js and Express
+- Database modeling and ORM usage
+- Authentication and authorization systems
+- Building real-world, production-style projects
+- Strengthening Data Structures and Algorithms
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harshatal15&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-shiv-shankar-atal-a271172a5/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harsh.atal05@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens)
+
+---
+
+## 📊 GitHub Stats
+
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshatal15&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=harshatal15&theme=dark)
